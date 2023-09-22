@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028982131067",
+    "project_id": "tachiyomi-flutter",
+    "storage_bucket": "tachiyomi-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028982131067:android:bcf614536d9582cbdd55de",
+        "android_client_info": {
+          "package_name": "com.example.tachiyomi_port"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsrHVJHIIqI1BkBqfN0nQ5Cw7TuJnGJCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
