@@ -4,7 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import '/utils/firebase_options.dart';
 import '/utils/app_theme.dart';
 
-import '/screens/home_screen.dart';
+import '/widgets/bottom_nav_bar.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: AppTheme.defaultTheme,
-      home: const HomeScreen(),
+      home: const BottomNavBar(),
     );
   }
 }
