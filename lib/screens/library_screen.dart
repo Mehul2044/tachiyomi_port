@@ -15,11 +15,11 @@ class LibraryScreen extends StatelessWidget {
           ),
           IconButton(
             onPressed: () {},
-            icon: const Icon(Icons.filter_alt_rounded),
+            icon: const Icon(Icons.filter_list),
           ),
           IconButton(
             onPressed: () {},
-            icon: const Icon(Icons.menu),
+            icon: const Icon(Icons.more_vert),
           ),
         ],
       ),
